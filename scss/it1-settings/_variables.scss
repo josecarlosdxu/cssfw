@@ -1,0 +1,28 @@
+//namespace
+$nm: "";
+//Debug classes are created if true
+$debug: false;
+//Magic numbers
+//Module used in margin and paddings accros the framework to keep the ratio
+$unit-base: 12px;
+$unit-mod: 1.5rem;
+//Short alias for unit-mod
+$um: $unit-mod;
+//Vertical rythm
+$base-font-size: $unit-base !default;
+$base-line-height: 1.2 !default;
+//Breakpoints
+$breakpoints:( xxs: 0px, xs: 320px, s: 360px, sm: 480px, md: 768px, ls: 940px, lg: 1024px, xl: 1200px, xxl: 1400px);
+
+//$rootImageSrc: "../../../bundles/app/img/";
+
+
+
+
+
+
+
+
+
+
+
